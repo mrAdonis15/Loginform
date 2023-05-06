@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514649591808",
+    "project_id": "medfinder-dtbs",
+    "storage_bucket": "medfinder-dtbs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514649591808:android:dbb471c676ef70b6bd88e5",
+        "android_client_info": {
+          "package_name": "com.example.loginform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514649591808-6mlkf84tr2jil67o9j8umh00crgnjr2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmnN2w8KZOQX_ooPPO1Ud53WDIIXQgTlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514649591808-6mlkf84tr2jil67o9j8umh00crgnjr2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
